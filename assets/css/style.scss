@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#container, body, h2, footer, p {
+    background: none;
+    text-shadow: none;
+    font-size: 100%;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: large;
+    font-weight: normal;
+}
+
+h1, header h1, a, footer a, p a {
+    font-family: sans-serif;
+    font-weight: 500;
+    color: darkorange;
+}
+
+hr {
+    background-color: darkorange;
+    height: 1px;
+    padding-bottom: 0;
+    margin-bottom: 21px;
+    margin-top: 21px;
+}
+
+ul, ol {
+    margin-left: 42px;
+}
+
+footer {
+    margin-top: 0;
+}
+
+#main_content a:hover, footer a:hover {
+    color: darkorange;
+    text-decoration: underline;
+}
