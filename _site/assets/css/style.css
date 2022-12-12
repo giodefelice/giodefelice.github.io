@@ -183,9 +183,9 @@ footer a:hover { color: #444; }
 
 h2 { font-size: large; font-weight: normal; }
 
-h1, header h1, a, footer a, p a { font-family: sans-serif; font-weight: 500; color: darkorange; }
+h1, header h1, a, footer a, p a { font-family: sans-serif; font-weight: 500; color: black; }
 
-hr { background-color: darkorange; height: 1px; padding-bottom: 0; margin-bottom: 21px; margin-top: 21px; }
+hr { background-color: black; height: 1px; padding-bottom: 0; margin-bottom: 21px; margin-top: 21px; }
 
 ul, ol { margin-left: 42px; }
 
