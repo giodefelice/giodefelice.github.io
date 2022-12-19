@@ -1,1 +1,1 @@
-For my latest publications, see the [arXiv](https://arxiv.org/search/?query=de+Felice%2C+Giovanni&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
+For my latest publications, see the [arXiv](https://arxiv.org/search/?query=de+Felice%2C+Giovanni&searchtype=author&abstracts=show&order=-announced_date_first&size=50) or [Google scholar](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en).

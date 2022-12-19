@@ -19,10 +19,9 @@ and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_
 I also worked on [Hopf algebras](https://www.cs.ox.ac.uk/people/bob.coecke/Giovanni), [fermionic circuits](https://arxiv.org/pdf/1801.01231.pdf),
 the [ZX calculus](https://quantum-journal.org/papers/q-2021-03-25-421/)
 and [dataflow programming](https://dl.acm.org/doi/10.1145/3531130.3533365),
-all using [string diagrams](https://en.wikipedia.org/wiki/String_diagram)
+all using [string diagrams](https://en.wikipedia.org/wiki/String_diagram).
 
 At Quantinuum, my efforts are focused at developing graphical languages
 for [quantum optics](https://en.wikipedia.org/wiki/Quantum_optics),
-compilation software for [linear](https://arxiv.org/abs/2204.12985)
-[optical circuits](https://en.wikipedia.org/wiki/Linear_optical_quantum_computing),
+compilation software for [linear optical circuits](https://arxiv.org/abs/2204.12985),
 and running experiments on currently available [photonic hardware](https://en.wikipedia.org/wiki/Integrated_quantum_photonics).
